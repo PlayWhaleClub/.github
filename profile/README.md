@@ -31,6 +31,6 @@ For more detailed contribution guidelines, please refer to the `CONTRIBUTING.md`
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out to us:
 
-- **Email**: support@playwhale.gg
-- **Discord**: [Whale Community](https://discord.gg/your-invite-link)
-- **Website**: [playwhale.gg](https://www.playwhale.gg)
+- **Email**: support@playwhale.club
+- **Discord**: [Whale Community](https://discord.gg/QMswCpKpnD)
+- **Website**: [playwhale.gg](https://www.playwhale.club)
